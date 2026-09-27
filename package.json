@@ -1,0 +1,24 @@
+{
+  "name": "ip-dns-scanner",
+  "version": "1.0.0",
+  "description": "Web application for scanning clean IPs and DNS servers with speed and ping measurement",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "ip",
+    "dns",
+    "scanner",
+    "ping",
+    "speed-test"
+  ],
+  "author": "sadeghset",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {}
+}
